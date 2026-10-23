@@ -69,6 +69,7 @@ Resultado esperado:
 ```text
 403 Forbidden
 ```
+<img width="835" height="127" alt="image" src="https://github.com/user-attachments/assets/bdff373d-dfdb-47b6-b86f-284cea04456f" />
 
 ### Con el token correcto
 
@@ -81,6 +82,7 @@ Resultado esperado:
 ```text
 200 OK
 ```
+<img width="1031" height="225" alt="image" src="https://github.com/user-attachments/assets/2ab4ab9e-be66-4bca-82e3-afecab50aaa6" />
 
 ## 5. Logs de Apache
 
@@ -93,6 +95,7 @@ Para consultar los logs:
 ```bash
 docker exec apache cat /usr/local/apache2/logs/access_log
 ```
+<img width="827" height="106" alt="image" src="https://github.com/user-attachments/assets/474d3c3f-b7c3-455d-96fb-c81b42aac959" />
 
 ## 6. Resultado
 
