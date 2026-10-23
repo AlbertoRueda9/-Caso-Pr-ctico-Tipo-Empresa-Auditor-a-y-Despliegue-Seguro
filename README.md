@@ -19,6 +19,9 @@ Para iniciar los contenedores:
 docker compose build
 docker compose up -d
 ```
+<img width="946" height="668" alt="image" src="https://github.com/user-attachments/assets/e34a542e-50a2-44e9-93c5-1347e6b97719" />
+<img width="927" height="137" alt="image" src="https://github.com/user-attachments/assets/aafc8dc8-39b2-46d3-98f5-ae94f20a7ea5" />
+
 
 Para comprobar que están funcionando:
 
@@ -33,6 +36,7 @@ Se comprueba que Apache funciona a través de Nginx:
 ```bash
 curl -I http://app-gestion.empresa.local
 ```
+<img width="812" height="220" alt="image" src="https://github.com/user-attachments/assets/afc9ae8b-fab5-45c4-8e41-4984c3715cc5" />
 
 Resultado esperado:
 
